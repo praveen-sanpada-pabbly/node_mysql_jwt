@@ -1,9 +1,11 @@
 
+<br/>
 <h1>Folder Structure</h1>
 
 ![image](https://github.com/praveen-sanpada-pabbly/node_mysql_jwt/assets/121610529/77d168c7-0466-4d43-93b8-e9ffd829603b)
 
-<br/>
+
+<br/><br/>
 <h1>Mysql Tables - node_jwt_app </h1>
 
 ![image](https://github.com/praveen-sanpada-pabbly/node_mysql_jwt/assets/121610529/fe43f7e2-2b1f-4b53-bb7e-1f09c0e009b9)
@@ -12,7 +14,8 @@
 
 ![image](https://github.com/praveen-sanpada-pabbly/node_mysql_jwt/assets/121610529/f1487584-ae39-4011-95b8-988fdea5f2c8)
 
-<br/>
+
+<br/><br/>
 <h1>Root api and 404 api </h1>
 
 1) http://localhost:3002 (GET)
@@ -25,7 +28,8 @@
 
 ![image](https://github.com/praveen-sanpada-pabbly/node_mysql_jwt/assets/121610529/ffba2494-0bdb-4cab-8444-225ff6c44b91)
 
-<br/>
+
+<br/><br/>
 <h1>Admin api </h1>
 
 1) http://localhost:3002/auth/register (POST)
@@ -67,6 +71,51 @@
 7) http://localhost:3002/products/4 (DELETE)
 
 ![image](https://github.com/praveen-sanpada-pabbly/node_mysql_jwt/assets/121610529/9011bf44-7d08-44ed-8ec0-fe6c94685836)
+
+
+<br/><br/>
+<h1>Manager api </h1>
+
+1) http://localhost:3002/auth/register (POST)
+
+![image](https://github.com/praveen-sanpada-pabbly/node_mysql_jwt/assets/121610529/52e8d389-6c5d-46ae-bb19-6e8c8a793805)
+
+<br/>
+
+2) http://localhost:3002/auth/login (POST)
+
+![image](https://github.com/praveen-sanpada-pabbly/node_mysql_jwt/assets/121610529/f1ee30d5-0155-4ab9-8e42-1b777173bd9c)
+
+<br/>
+
+3) http://localhost:3002/products (POST)
+
+![image](https://github.com/praveen-sanpada-pabbly/node_mysql_jwt/assets/121610529/70562f2b-1549-4e9a-82a2-17d936ad3a46)
+
+<br/>
+
+4) http://localhost:3002/products (GET)
+
+![image](https://github.com/praveen-sanpada-pabbly/node_mysql_jwt/assets/121610529/a1a9a4cb-1437-432c-b6e0-13d5479965a4)
+
+<br/>
+
+5) http://localhost:3002/products/1 (GET)
+
+![image](https://github.com/praveen-sanpada-pabbly/node_mysql_jwt/assets/121610529/e68f783a-6241-4df1-bb59-3d4da45a5270)
+
+<br/>
+
+6) http://localhost:3002/products/1 (PUT)
+
+![image](https://github.com/praveen-sanpada-pabbly/node_mysql_jwt/assets/121610529/8c909283-7bfa-4d37-870b-613c8f53cf16)
+
+<br/>
+
+7) http://localhost:3002/products/4 (DELETE)
+
+![image](https://github.com/praveen-sanpada-pabbly/node_mysql_jwt/assets/121610529/a5bf699e-1f08-412c-ac9c-037c9d50e8bc)
+
 
 
    
