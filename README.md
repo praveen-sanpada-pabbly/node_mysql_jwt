@@ -117,6 +117,55 @@
 ![image](https://github.com/praveen-sanpada-pabbly/node_mysql_jwt/assets/121610529/a5bf699e-1f08-412c-ac9c-037c9d50e8bc)
 
 
+<br/><br/>
+<h1>Staff api </h1>
+
+1) http://localhost:3002/auth/register (POST)
+
+![image](https://github.com/praveen-sanpada-pabbly/node_mysql_jwt/assets/121610529/b5733b22-a271-4d56-87fc-c8fef99938a3)
+
+<br/>
+
+2) http://localhost:3002/auth/login (POST)
+
+![image](https://github.com/praveen-sanpada-pabbly/node_mysql_jwt/assets/121610529/292a4733-36e4-4102-803f-14622db5cb56)
+
+<br/>
+
+3) http://localhost:3002/products (POST)
+
+![image](https://github.com/praveen-sanpada-pabbly/node_mysql_jwt/assets/121610529/1a0709ec-c280-4612-b869-e92febf35d4f)
+
+<br/>
+
+4) http://localhost:3002/products (GET)
+
+![image](https://github.com/praveen-sanpada-pabbly/node_mysql_jwt/assets/121610529/6e153986-acf0-4a55-979d-00bb72b24754)
+
+<br/>
+
+5) http://localhost:3002/products/1 (GET)
+
+![image](https://github.com/praveen-sanpada-pabbly/node_mysql_jwt/assets/121610529/0d1d5815-97c5-4d9f-a554-b6b97a754117)
+
+<br/>
+
+6) http://localhost:3002/products/1 (PUT)
+
+![image](https://github.com/praveen-sanpada-pabbly/node_mysql_jwt/assets/121610529/5da90541-e40c-410d-adbe-0531523ed731)
+
+<br/>
+
+7) http://localhost:3002/products/4 (DELETE)
+
+![image](https://github.com/praveen-sanpada-pabbly/node_mysql_jwt/assets/121610529/af334ec8-a2e5-4d12-87b6-03431664f9ef)
+
+
+<br/><br/>
+<h1>Thank You</h1>
+
+
+
 
    
 
